@@ -8,7 +8,7 @@ config = {
 		"Driver": "PyMySQL" if sys.platform == "win32" else "MySQLdb"
 	},
 	"Redis": {
-		"Address": "redis://redistogo:a8ce0f565cbeaa61d1df4368256ffa03@spinyfin.redistogo.com",
+		"Address": "redis://redistogo:a8ce0f565cbeaa61d1df4368256ffa03",
 		"Port": 9279
 	},
 	"Servers": {
