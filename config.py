@@ -9,7 +9,7 @@ config = {
 	},
 	"Redis": {
 		"Address": "redis://redistogo:a8ce0f565cbeaa61d1df4368256ffa03@spinyfin.redistogo.com",
-		"Port":9279
+		"Port": 9279
 	},
 	"Servers": {
 		"Login": {
