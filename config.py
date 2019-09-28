@@ -1,10 +1,10 @@
 import sys
 config = {
 	"Database": {
-		"Address": "localhost",
-		"Username": "root",
-		"Password": "",
-		"Name": "Houdini",
+		"Address": "85.10.205.173:3306",
+		"Username": "josecholi",
+		"Password": "Doncholito",
+		"Name": "clubpenguin",
 		"Driver": "PyMySQL" if sys.platform == "win32" else "MySQLdb"
 	},
 	"Redis": {
